@@ -1,2 +1,3 @@
 # ARORA
 THIS CONTAINS MY 2 TASKS FOR CNN AND CONTRASTIVE LEARNING
+I've completed one coding task successfully. The second was challenging; I faced problems in connecting the 2 models namely the encoder(it was loaded properly from the google cloud ) and the 2 finetuning layers as I was not able to reshape the data accordingly however I was successful in creating spectrograms from the ACCX data. I tried my best but didn't achieve the desired results. The concept of contrasting learning intrigued me as this an efficient way to handle the manual labelling process. If possible, I'd love an interview opportunity to explore this topic further and enhance my skills.
